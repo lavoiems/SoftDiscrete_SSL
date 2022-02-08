@@ -1,0 +1,10 @@
+pyparsing==2.4.7
+torch>=1.10
+scikit-learn
+torchvision
+pandas
+seaborn
+scipy
+six
+tqdm
+ipdb

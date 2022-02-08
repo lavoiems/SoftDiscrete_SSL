@@ -1,0 +1,3 @@
+[submodule "large_scale"]
+	path = large_scale
+	url = https://github.com/lavoiems/solo-learn.git
